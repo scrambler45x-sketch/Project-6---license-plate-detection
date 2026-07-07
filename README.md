@@ -1,5 +1,8 @@
 # Real-Time License Plate Recognition (PC Edition)
 
+This is a working, runnable build of the **Task 6 — License Plate Recognition**
+project, based on the `Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano`
+repo you uploaded.
 
 ## Why it was adapted
 
@@ -95,4 +98,3 @@ Original models, dataset, and Jetson Nano implementation from the
 `Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano` project. This
 build only replaces the Jetson-specific runtime layer so the same models can
 be used on ordinary hardware.
-
